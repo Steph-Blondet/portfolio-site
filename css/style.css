@@ -16,7 +16,7 @@ html {
 
 @media(min-width:767px) {
     .navbar {
-        padding: 20px 0;
+        padding: 1% 0;
         -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
         -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
         transition: background .5s ease-in-out,padding .5s ease-in-out;
@@ -29,7 +29,7 @@ html {
 
 .intro-section {
     height: 100%;
-    padding: 20% 0;
+    padding: 30% 0;
     text-align: center;
     background: url('../imgs/shades-48.jpg');
     background-size: cover;
@@ -42,12 +42,37 @@ html {
     margin: 0 auto;
 }
 
-.about-section {
+.portfolio-section {
     height: 100%;
-    padding-top: 150px;
-    text-align: center;
+    text-align: left;
     background: #eee;
 }
+
+.portfolio-title {
+    padding: 5% 0;
+    font-size: 30px;
+    font-weight: 700;
+    color: black;
+    margin: 0 auto;
+}
+
+h3 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+}
+
+.col-md-4 {
+    padding-bottom: 3em;
+}
+
+img {
+    max-width: 100%;
+    box-shadow: 3px 3px 5px #888888;
+}
+
+
+
+
 
 .services-section {
     height: 100%;
@@ -55,6 +80,8 @@ html {
     text-align: center;
     background: #fff;
 }
+
+
 
 .contact-section {
     height: 100%;

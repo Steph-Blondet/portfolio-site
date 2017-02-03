@@ -11,6 +11,7 @@ html {
 }
 body {
   margin: 0;
+  font-family: 'Lato', sans-serif;
 }
 article,
 aside,
@@ -1213,6 +1214,7 @@ h2,
 .h2 {
   font-size: 30px;
 }
+
 p {
   margin: 0 0 10px;
 }
@@ -4199,7 +4201,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   border-width: 1px 0 0;
 }
 .navbar-brand {
-  float: left;
+  /*float: left;*/
   height: 50px;
   padding: 15px 15px;
   font-size: 18px;
