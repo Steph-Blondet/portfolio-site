@@ -67,9 +67,13 @@ h3 {
     padding-right: 2em;
 }
 
-img {
+.project {
     max-width: 100%;
     box-shadow: 3px 3px 5px #888888;
+}
+
+.social {
+    box-shadow: none;
 }
 
 
@@ -84,7 +88,11 @@ img {
 }
 
 .par {
-    font-size: 1.3em;
+    font-size: 1.2em;
+}
+
+.par-2 {
+    font-size: 1.5em;
 }
 
 .contact-section {
