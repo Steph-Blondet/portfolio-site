@@ -48,7 +48,7 @@ html {
     background: #eee;
 }
 
-.portfolio-title {
+.sub-title {
     padding: 5% 0;
     font-size: 30px;
     font-weight: 700;
@@ -73,22 +73,23 @@ img {
 }
 
 
-
-
-
-.services-section {
+.about-section {
     height: 100%;
-    padding-top: 150px;
-    text-align: center;
+    text-align: left;
     background: #fff;
 }
 
+.blue {
+    color: #7ABBD7;
+}
 
+.par {
+    font-size: 1.3em;
+}
 
 .contact-section {
     height: 100%;
-    padding-top: 150px;
-    text-align: center;
+    text-align: left;
     background: #eee;
 }
 
