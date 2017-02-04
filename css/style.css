@@ -57,12 +57,14 @@ html {
 }
 
 h3 {
+    padding: 1em 0 0.5em;
     font-family: 'Lato', sans-serif;
     font-weight: 700;
 }
 
 .col-md-4 {
     padding-bottom: 3em;
+    padding-right: 2em;
 }
 
 img {
